@@ -1,4 +1,5 @@
 # Roberto's
-A calculator developed using Vanilla Javascript
+
+A calculator made using Vanilla Javascript
 
 https://web-roberto.github.io/calcultator-20/
